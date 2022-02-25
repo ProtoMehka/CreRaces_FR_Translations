@@ -6,3 +6,6 @@ https://github.com/ProtoMehka/CreRaces_FR_Translations/wiki
 
 Lien vers le mod :
 https://www.curseforge.com/minecraft/mc-mods/creraces/screenshots
+
+Lien vers le wiki original :
+https://creraces.fandom.com/wiki/CreRaces
